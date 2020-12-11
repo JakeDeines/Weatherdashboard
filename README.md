@@ -2,7 +2,7 @@
 
 
 ## Description
-
+In this project I created a Weather Dashboard app using a Third-party API from open weathermap.org. I completed this project using html, and javascript, axios, localstorage, ES6 Syntax Bootstrap and fontawesome. 
 ## Deployed Website
 
 ## Github Repository URL
