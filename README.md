@@ -6,6 +6,7 @@ In this project I created a Weather Dashboard app using a Third-party API from o
 ## Deployed Website
 
 ## Github Repository URL
+https://github.com/JakeDeines/Weatherdashboard
 
 ## Deployed Website Image
 ![weather API](https://user-images.githubusercontent.com/67669417/101852276-215b1700-3b12-11eb-9360-297b5abcdb9d.PNG)
